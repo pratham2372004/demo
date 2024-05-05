@@ -1,4 +1,4 @@
 # Demo
 First github repository
 <br>
-Author-Pratham 
+Author-Pratham Wadhwani
