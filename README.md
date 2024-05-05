@@ -1,2 +1,3 @@
-# demo
-first github repository
+# Demo
+First github repository
+Author-Pratham 
